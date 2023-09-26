@@ -1,6 +1,6 @@
 # IoT Nesnelerin İnterneti Firmaları
 Bu liste karışık olarak oluşturulmuştur. Firmalar rastgele eklenmiştir. Sizde firmanızı  ekleyebilirsiniz.
-* Meşe Bilişim -
+* Meşe Bilişim
   * IoTHook
   * Manisa
   * https://iothook.com
